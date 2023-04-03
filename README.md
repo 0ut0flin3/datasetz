@@ -1,2 +1,2 @@
-## thousands of questions with their related answers about coding, scraped from the web; updated constantly.
+## thousands of questions with their related answers, scraped from the web; updated constantly.
 
